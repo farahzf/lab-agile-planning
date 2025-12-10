@@ -14,7 +14,7 @@ assignees: ''
 ### Details and Assumptions
 * [document what you know]
 
-### Acceptance Criteris
+### Acceptance Criteria
 
 ```gherkin
 Given [some context]
